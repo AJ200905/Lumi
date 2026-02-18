@@ -67,6 +67,10 @@ while True:
         3
     )
 
+
+
+    print("hello")
+
     cv2.imshow("Robotic Lamp - Live Detection", frame)
 
     # Exit condition
